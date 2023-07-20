@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 // RedirectConfig defines the config for Redirect middleware.

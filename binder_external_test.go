@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 func ExampleValueBinder_BindErrors() {

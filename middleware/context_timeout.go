@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 // ContextTimeoutConfig defines the config for ContextTimeout middleware.

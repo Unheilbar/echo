@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 type (

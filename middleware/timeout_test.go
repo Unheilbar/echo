@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"github.com/stretchr/testify/assert"
 )
 

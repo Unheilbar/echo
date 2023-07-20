@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 type (

@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"github.com/labstack/gommon/log"
 )
 

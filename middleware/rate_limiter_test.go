@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"github.com/labstack/gommon/random"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/time/rate"

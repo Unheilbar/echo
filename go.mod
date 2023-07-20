@@ -1,4 +1,4 @@
-module github.com/Unheilbar/echo/v4
+module github.com/Unheilbar/echo
 
 go 1.17
 

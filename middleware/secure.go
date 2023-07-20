@@ -3,7 +3,7 @@ package middleware
 import (
 	"fmt"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 type (

@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 // Example for `fmt.Printf`

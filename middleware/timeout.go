@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"context"
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"net/http"
 	"sync"
 	"time"

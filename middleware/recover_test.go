@@ -8,7 +8,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"github.com/labstack/gommon/log"
 	"github.com/stretchr/testify/assert"
 )

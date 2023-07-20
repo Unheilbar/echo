@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"golang.org/x/time/rate"
 )
 

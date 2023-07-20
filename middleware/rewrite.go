@@ -3,7 +3,7 @@ package middleware
 import (
 	"regexp"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 type (

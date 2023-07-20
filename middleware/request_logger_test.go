@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

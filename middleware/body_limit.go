@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"github.com/labstack/gommon/bytes"
 )
 

@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"errors"
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"net/http"
 )
 

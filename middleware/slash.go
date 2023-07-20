@@ -3,7 +3,7 @@ package middleware
 import (
 	"strings"
 
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 )
 
 type (

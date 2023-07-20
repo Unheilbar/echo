@@ -3,7 +3,7 @@ package middleware
 import (
 	"errors"
 	"fmt"
-	"github.com/Unheilbar/echo/v4"
+	"github.com/Unheilbar/echo"
 	"net/textproto"
 	"strings"
 )
