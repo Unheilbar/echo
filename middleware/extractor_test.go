@@ -3,7 +3,7 @@ package middleware
 import (
 	"bytes"
 	"fmt"
-	"github.com/labstack/echo/v4"
+	"github.com/Unheilbar/echo/v4"
 	"github.com/stretchr/testify/assert"
 	"mime/multipart"
 	"net/http"
